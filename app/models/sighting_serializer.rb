@@ -1,0 +1,2 @@
+class SightingSerializer < ApplicationRecord
+end
